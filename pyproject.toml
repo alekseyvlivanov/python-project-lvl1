@@ -1,12 +1,13 @@
 [tool.poetry]
 name = "hexlet-code"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Aleksey Ivanov <aleksey.vl.ivanov@gmail.com>"]
 packages = [{ include = "brain_games" }]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+prompt = "^0.4.1"
 
 [tool.poetry.dev-dependencies]
 
