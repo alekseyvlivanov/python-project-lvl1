@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-from brain_games import cli
+from brain_games import even_game
 
 
 def main():
-    cli.welcome_user()
+    even_game.run()
 
 
 if __name__ == '__main__':
