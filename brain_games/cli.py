@@ -25,7 +25,7 @@ def run_game(game_description, generate_game_data):
         user_answer = prompt.string('Your answer: ')
 
         if (user_answer.lower() != answer):
-            template = '{} is wrong answer ;(. Correct answer was {}.'
+            template = "'{}' is wrong answer ;(. Correct answer was '{}'."
             print(template.format(user_answer, answer))
             print("Let's try again, {}!".format(name))
 
