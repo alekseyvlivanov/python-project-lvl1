@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-from brain_games.games import even_game
+from brain_games.games import calc_game
 
 
 def main():
-    even_game.run()
+    calc_game.run()
 
 
 if __name__ == '__main__':

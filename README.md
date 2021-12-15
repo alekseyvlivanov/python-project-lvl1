@@ -9,3 +9,7 @@
 #### Package install and Brain Even demo
 
 [![asciicast](https://asciinema.org/a/iqlLMVIabiMpda6EfrItNnHJa.svg)](https://asciinema.org/a/iqlLMVIabiMpda6EfrItNnHJa)
+
+#### Brain Calc demo
+
+[![asciicast](https://asciinema.org/a/ITh5kFaSpl0ULc01bUZtvicbb.svg)](https://asciinema.org/a/ITh5kFaSpl0ULc01bUZtvicbb)

@@ -12,8 +12,8 @@ def is_even(num):
 def generate_game_data():
     random_number = random.SystemRandom().randint(1, 100)
 
-    answer = 'yes' if is_even(random_number) else 'no'
     question = str(random_number)
+    answer = 'yes' if is_even(random_number) else 'no'
 
     return (question, answer)
 
