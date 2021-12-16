@@ -2,7 +2,7 @@
 
 from brain_games import cli
 
-game_description = 'What number is missing in the progression?'
+game_desc = 'What number is missing in the progression?'
 length_of_progression = 10
 
 
@@ -27,4 +27,4 @@ def generate_game_data():
 
 
 def run():
-    cli.run_game(game_description, generate_game_data)
+    cli.run_game(game_desc, generate_game_data)

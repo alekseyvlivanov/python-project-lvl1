@@ -2,7 +2,7 @@
 
 from brain_games import cli
 
-game_description = 'Find the greatest common divisor of given numbers.'
+game_desc = 'Find the greatest common divisor of given numbers.'
 max_number = 100
 
 
@@ -21,4 +21,4 @@ def generate_game_data():
 
 
 def run():
-    cli.run_game(game_description, generate_game_data)
+    cli.run_game(game_desc, generate_game_data)

@@ -18,9 +18,9 @@ def welcome_user():
     return name
 
 
-def run_game(game_description, generate_game_data):
+def run_game(game_desc, generate_game_data):
     name = welcome_user()
-    print(game_description)
+    print(game_desc)
 
     attempt = 1
     while attempt <= number_of_attempts:

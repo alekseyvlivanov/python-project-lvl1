@@ -2,7 +2,7 @@
 
 from brain_games import cli
 
-game_description = 'Answer "yes" if the number is even, otherwise answer "no".'
+game_desc = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def is_even(num):
@@ -19,4 +19,4 @@ def generate_game_data():
 
 
 def run():
-    cli.run_game(game_description, generate_game_data)
+    cli.run_game(game_desc, generate_game_data)

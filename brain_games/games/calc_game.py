@@ -2,7 +2,7 @@
 
 from brain_games import cli
 
-game_description = 'What is the result of the expression?'
+game_desc = 'What is the result of the expression?'
 max_number = 100
 
 game_operations = {
@@ -25,4 +25,4 @@ def generate_game_data():
 
 
 def run():
-    cli.run_game(game_description, generate_game_data)
+    cli.run_game(game_desc, generate_game_data)
