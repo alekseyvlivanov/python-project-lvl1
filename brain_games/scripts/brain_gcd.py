@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 
-from brain_games import cli
+from brain_games.games import gcd_game
 
 
 def main():
-    cli.welcome_user()
+    gcd_game.run()
 
 
 if __name__ == '__main__':

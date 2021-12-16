@@ -19,4 +19,7 @@ brain-games:
 brain-even:
 	poetry run brain-even
 
-.PHONY: install build publish package-install
+brain-gcd:
+	poetry run brain-gcd
+
+.PHONY: install lint build publish package-install

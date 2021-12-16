@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 import random
 from brain_games import cli
 
@@ -14,8 +15,6 @@ operators = list(game_operations.keys())
 
 
 def generate_game_data():
-    print(operators)
-
     number_one = random.SystemRandom().randint(1, max_number)
     number_two = random.SystemRandom().randint(1, max_number)
     operator = operators[random.SystemRandom().randint(0, len(operators) - 1)]

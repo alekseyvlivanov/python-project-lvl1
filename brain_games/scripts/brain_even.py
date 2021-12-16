@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 from brain_games.games import even_game
 
 
