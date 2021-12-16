@@ -1,8 +1,13 @@
 # -*- coding: utf-8 -*-
 
+import random
 import prompt
 
 number_of_attempts = 3
+
+
+def get_randint(no_less, no_more):
+    return random.SystemRandom().randint(no_less, no_more)
 
 
 def welcome_user():
