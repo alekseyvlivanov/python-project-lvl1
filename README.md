@@ -6,22 +6,26 @@
 
 ## Usage
 
-#### Package install and Brain Even demo
+#### Package install
 
-[![asciicast](https://asciinema.org/a/iqlLMVIabiMpda6EfrItNnHJa.svg)](https://asciinema.org/a/iqlLMVIabiMpda6EfrItNnHJa)
+[![asciicast](https://asciinema.org/a/so97QB2FzSzVh3kWkFVdc2bGw.svg)](https://asciinema.org/a/so97QB2FzSzVh3kWkFVdc2bGw)
+
+#### Brain Even demo
+
+[![asciicast](https://asciinema.org/a/OGPuRqxLqyRoxesALZHG45dG8.svg)](https://asciinema.org/a/OGPuRqxLqyRoxesALZHG45dG8)
 
 #### Brain Calc demo
 
-[![asciicast](https://asciinema.org/a/ITh5kFaSpl0ULc01bUZtvicbb.svg)](https://asciinema.org/a/ITh5kFaSpl0ULc01bUZtvicbb)
+[![asciicast](https://asciinema.org/a/sZxe6A0YSQv7NkmMu0Gg8IdqF.svg)](https://asciinema.org/a/sZxe6A0YSQv7NkmMu0Gg8IdqF)
 
 #### Brain GCD demo
 
-[![asciicast](https://asciinema.org/a/kg0ubfilEbTFTgZmtnkdh9ssD.svg)](https://asciinema.org/a/kg0ubfilEbTFTgZmtnkdh9ssD)
+[![asciicast](https://asciinema.org/a/RQuG5cOAzTps3mrYjdqrFauBj.svg)](https://asciinema.org/a/RQuG5cOAzTps3mrYjdqrFauBj)
 
 #### Brain Progression demo
 
-[![asciicast](https://asciinema.org/a/qS9igmx3xCPHzMDvUyV0iLPt4.svg)](https://asciinema.org/a/qS9igmx3xCPHzMDvUyV0iLPt4)
+[![asciicast](https://asciinema.org/a/x3HaRGlub4SYVciB7PTMVjXwS.svg)](https://asciinema.org/a/x3HaRGlub4SYVciB7PTMVjXwS)
 
 #### Brain Prime demo
 
-[![asciicast](https://asciinema.org/a/rg2k1MBd0NsN9wyMzG6q77aDQ.svg)](https://asciinema.org/a/rg2k1MBd0NsN9wyMzG6q77aDQ)
+[![asciicast](https://asciinema.org/a/e9537ibbj6N7HXp9uMBDJ2oSJ.svg)](https://asciinema.org/a/e9537ibbj6N7HXp9uMBDJ2oSJ)
